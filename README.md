@@ -12,3 +12,4 @@ matplotlib
 imblearn
 
 # Nível do desbalanceamento da base
+![alt text](https://github.com/brunobstoll/jupyter-notebook-edm-mooc/blob/master/Desbalanceamento.png)
